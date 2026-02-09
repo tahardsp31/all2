@@ -3,7 +3,7 @@
 
 
 
-
+##### AR - ISLAMIC ##### 
 
 #EXTINF:-1 group-title="|AR| ISLAMIC",##### AR - ISLAMIC ##### 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250106&extension=ts
@@ -408,6 +408,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698856&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698856&extension=ts
 
+#EXTM3U
 
 
 #EXTINF:-1 group-title="|AR| ALGERIA",##### DZ - ALGERIA #####
@@ -669,7 +670,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=753363&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=753363&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=753363&extension=ts
 
-
+#EXTM3U
 
 
 #EXTINF:-1 group-title="|AR| MOROCCO",##### MA - MOROCCO #####
