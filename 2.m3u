@@ -2,16 +2,170 @@
 
 
 
-C:\Python314\python.exe C:\Users\Admin\Desktop\Desktop\2.py 
-▶️ APPS TV | استخراج القنوات مع 6 سيرفرات لكل قناة
-❌ خطأ: http://line.venomtv.me:80/portal.php?type=live&action=get_genres&mac=00:1A:79:E6:52:EF&JsHttpRequest=1-xml -> Expecting value: line 1 column 1 (char 0)
-❌ لا توجد تصنيفات Live
-❌ خطأ: http://line.venomtv.me:80/portal.php?type=vod&action=get_genres&mac=00:1A:79:E6:52:EF&JsHttpRequest=1-xml -> Expecting value: line 1 column 1 (char 0)
-❌ لا توجد تصنيفات VOD
 
-🏁 DONE — جميع Live و VOD تم استخراجها بنجاح!
 
-Process finished with exit code 0
+#EXTINF:-1 group-title="|AR| ISLAMIC",عبد الرحمن السديس 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250106&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250106&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250106&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250106&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250106&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",عبد الباسط عبد الصمد 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=986019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986019&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",سعود الشريم 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986020&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=986020&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986020&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986020&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986020&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",خالد الجليل 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986021&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=986021&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986021&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986021&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986021&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AHL AL QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986022&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=986022&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986022&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986022&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986022&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - SHEIKH MAHER 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250114&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250114&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250114&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250114&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250114&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - THAQALAYN TV 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=646904&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=646904&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=646904&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=646904&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=646904&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AL SHAMS ISLAMIC TV 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=763252&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=763252&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=763252&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=763252&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=763252&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - SHEIKH SHURAIM 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=746061&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=746061&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=746061&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=746061&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=746061&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - RESSALA HEVC 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=646902&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=646902&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=646902&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=646902&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=646902&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - RESSALA 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250111&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250111&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250111&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250111&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250111&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AL RAHMA 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250110&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250110&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250110&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250110&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250110&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - BIN OTHAIMEEN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250112&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250112&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250112&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250112&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250112&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - QURAN TOW 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250118&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250118&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250118&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250118&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250118&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - QURAN ONE 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007019&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007019&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AL AFASY QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007018&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007018&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007018&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007018&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007018&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - MOHAMED GIBRIL QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007017&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007017&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007017&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007017&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007017&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - SALAH BUKHATIR QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007016&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007016&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007016&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007016&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007016&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - RAAD ALKURDI QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007015&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007015&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007015&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007015&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007015&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - SAOUD SHURAIM QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007014&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007014&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007014&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007014&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007014&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - M SIDIK ALMANCHAWI QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007013&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007013&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007013&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007013&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007013&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - ABD ELBASET QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007012&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007012&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007012&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007012&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007012&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AHMED ALAJMI QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007011&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007011&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007011&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007011&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007011&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - FARES ABAD QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007010&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007010&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007010&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007010&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007010&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AL MUAIQLY QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007009&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007009&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007009&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007009&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007009&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - AL-SUDAIS QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007008&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007008&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007008&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007008&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007008&extension=ts
+#EXTINF:-1 group-title="|AR| ISLAMIC",AR - MISHARI AL AFASI QURAN 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007007&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1007007&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007007&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007007&extension=ts
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007007&extension=ts
 
 #EXTINF:-1 group-title="|AR| ALGERIA",##### DZ - ALGERIA #####
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249861&extension=ts
@@ -17346,6 +17500,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=543578&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=543578&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=543578&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=543578&extension=ts
+
 
 
 
